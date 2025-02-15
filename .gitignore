@@ -1,0 +1,22 @@
+# Archivos de Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.cache
+
+# Archivos de compilación
+bin/
+obj/
+
+# Dependencias de NuGet
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Configuración local y secretos
+appsettings*.json
+secrets.json 
